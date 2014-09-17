@@ -6,6 +6,9 @@
     ".*",
     "Gruntfile.coffee"
   ],
+  "main": [
+    "./dist/restify.js"
+  ],
   "dependencies": {
     "angular": "*",
     "lodash": "~2.4.1"
